@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.1.2
+
+### Patch Changes
+
+- a8c2f674b: Updated drag and drop to work on tina cloud
+
 ## 1.1.1
 
 ### Patch Changes

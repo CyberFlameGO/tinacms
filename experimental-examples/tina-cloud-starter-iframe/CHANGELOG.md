@@ -1,5 +1,12 @@
 # @tinacms/starter-iframe
 
+## 0.1.14
+
+### Patch Changes
+
+- next-tinacms-cloudinary@4.1.0
+- tinacms@1.1.2
+
 ## 0.1.13
 
 ### Patch Changes
