@@ -37,7 +37,7 @@
     "jest": "^27.0.6",
     "meow": "^10.0.1",
     "normalize-path": "^3.0.0",
-    "postcss": "^8.4.5",
+    "postcss": "^8.4.31",
     "postcss-nested": "^5.0.6",
     "tailwindcss": "^3.0.13",
     "tsup": "^4.12.5",
