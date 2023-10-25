@@ -64,7 +64,7 @@
     "@tinacms/schema-tools": "workspace:*",
     "@tinacms/sharedctx": "workspace:*",
     "@tinacms/toolkit": "workspace:*",
-    "crypto-js": "^4.0.0",
+    "crypto-js": "^4.2.0",
     "encoding": "0.1.13",
     "fetch-ponyfill": "^7.1.0",
     "final-form": "4.20.1",
